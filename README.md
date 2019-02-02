@@ -4,6 +4,7 @@
 	-Mendeklarasi Nilai a,b,c sebagai nilai inputan
 	-Menginputkan nilai a,b,c setelah di RUN
 	-Cetak hasil {print(a),print(c),print(b),print(c)
+
 -Berikut kode lengkapnya
 
 	a=input("nilai a")
@@ -21,7 +22,9 @@
 	        print(c)
       
 -Berikut Hasil Screenshootnya
+
 ![img](https://github.com/zahira12/Labpy1/blob/master/hasil1.png)
 
 -Berikut Flowchartnya
+
 ![img](https://github.com/zahira12/Labpy1/blob/master/Flowchart.png)
